@@ -1,0 +1,7 @@
+site_name: Моя База Знаний
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Руководство: guide.md
